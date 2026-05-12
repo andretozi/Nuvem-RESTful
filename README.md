@@ -43,6 +43,11 @@ Conforme solicitado nos requisitos da atividade, seguem os links para avaliacao:
 
 ---
 
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/0e4a2a22-4a93-4b40-b570-34ccade0a383" /></br>
+
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/0dc1fafe-a312-4e4d-bb87-538650754bee" /></br>
+
+
 ## Instrucoes de Execucao Local
 
 1. Clone o repositorio: `git clone <url-do-repositorio>`
