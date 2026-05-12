@@ -5,7 +5,8 @@ app = Flask(__name__)
 # Sample data
 items = [
     {"id": 1, "name": "Item 1"},
-    {"id": 2, "name": "Item 2"}
+    {"id": 2, "name": "Item 2"},
+    {"id": 10436460, "name": "Andre Tozi"}
 ]
 
 # 1. Get all items
